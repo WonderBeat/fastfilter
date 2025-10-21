@@ -1,6 +1,6 @@
 # fastfilter: Binary fuse & xor filters for Zig <a href="https://hexops.com"><img align="right" alt="Hexops logo" src="https://raw.githubusercontent.com/hexops/media/main/readme.svg"></img></a>
 
-[![CI](https://github.com/hexops/fastfilter/workflows/CI/badge.svg)](https://github.com/hexops/fastfilter/actions)
+[![CI](https://github.com/WonderBeat/fastfilter/workflows/CI/badge.svg)](https://github.com/hexops/WonderBeat/actions)
 
 <a href="https://raw.githubusercontent.com/FastFilter/xor_singleheader/master/figures/comparison.png"><img align="right" src="https://raw.githubusercontent.com/FastFilter/xor_singleheader/master/figures/comparison.png" alt="comparison" width="400px"></img></a>
 
